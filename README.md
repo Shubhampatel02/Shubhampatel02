@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
 <h3 align="center">A passionate Backend Developer | Java | Spring Boot | Microservices</h3>
 
-- 🔭 I’m currently working on **Placement Management System**
-- 🌱 Learning Spring Boot, Microservices, and scalable backend architecture
-- 📫 Reach me at: **shubhampatel7865@gmail.com**
-- 🧠 Always improving DSA (150+ problems solved)
+- 💼 Currently interning at **Cognizant** as a Java Backend Developer  
+- 🌱 Learning advanced Spring Boot, REST/SOAP APIs, and Microservices  
+- 📫 Reach me at: **shubhampatel7865@gmail.com**  
+- 🧠 Solved 150+ DSA problems | Always learning  
 
 ---
 
@@ -71,11 +71,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhampatel02&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhampatel02&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhampatel02&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
