@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Backend Developer | Java | Spring Boot | Microservices Enthusiast</h3>
 
 <p align="center">
-  💼 Intern @ <b>Cognizant</b> | 💻 Backend Development<br/>
+  💼 Programmer Analyst Trainee  @ <b>Cognizant</b> | 💻 Backend Development<br/>
   🌱 Learning: Advanced Spring Boot | REST/SOAP APIs | Microservices<br/>
   📫 Reach me: <b>shubhampatel7865@gmail.com</b><br/>
   🧠 150+ DSA problems solved | Lifelong learner
