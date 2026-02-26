@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | Microservices | API Gateway (Apigee)</h3>
+<h3 align="center">Backend Developer | Java | Spring Boot | Microservices | Backend</h3>
 
 <p align="center">
   💼 Programmer Analyst Trainee @ <b>Cognizant</b><br/>
-  🔧 Working with APIs, Apigee Gateway & Cloud platforms<br/>
+  🔧 Working with APIs, API Gateway & Cloud platforms<br/>
   🌱 Currently learning: Advanced Spring Boot, Microservices, API Integration<br/>
   📫 Reach me: <b>shubhampatel7865@gmail.com</b><br/>
   🧠 Strong in Core Java • Backend Architecture • API Development
@@ -70,7 +70,7 @@
 - Strengthening Core Java & Spring Boot
 - Microservices architecture concepts
 - FinTech-friendly backend projects
-- Cloud basics (GCP, AWS)
+- Cloud basics (GCP)
 - DSA (Arrays, Strings, HashMap, Sliding Window)
 
 ---
