@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Developer | Java | Spring Boot | Microservices</h3>
 
 <p align="center">
-💼 Programmer Analyst Trainee @ <b>Cognizant</b><br>
+💼 Programmer Analyst @ <b>Cognizant</b><br>
 🔧 Building scalable APIs & backend systems<br>
 🌱 Currently learning <b>Advanced Spring Boot • Microservices • Cloud</b><br>
 📫 Reach me: <b>shubhampatel7865@gmail.com</b>
